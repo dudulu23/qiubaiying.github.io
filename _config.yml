@@ -4,10 +4,10 @@ SEOTitle: clerk王的博客 | MY TOYs
 header-img: img/post-bg-desk.jpg
 email: wang949885554@qq.com
 description: "每天都能发现许多新玩意儿."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: ""
+url: "http://dudulu23.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/dudulu23/dudulu23.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
